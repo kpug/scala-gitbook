@@ -1,1 +1,1 @@
-# scala-gitbook
+# 스칼라 언어
